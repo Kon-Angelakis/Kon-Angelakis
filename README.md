@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there im <b>Konstantinos</b>👋
+🔭 I’m an undergraduate in Computer Science 💻
+🌱 I’m currently learning the basics of C++ and Python🐍
 <!--
 **kangelakis/kangelakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
