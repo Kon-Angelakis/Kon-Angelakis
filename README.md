@@ -1,7 +1,8 @@
 ### Hi there im **Konstantinos**👋
 
-🔭 I’m an undergraduate in **Computer Science** 💻
+🎓 I’m currently an _undergraduate_ in **Computer Science** 💻
 
+⚡ Fun fact: A crocodile🐊 cannot stick its tongue out
 <!--
 **kangelakis/kangelakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
